@@ -24,9 +24,14 @@ public final class R {
         public static final int ic_launcher=0x7f020000;
         public static final int shape1=0x7f020001;
         public static final int shape2=0x7f020002;
+        public static final int shape3=0x7f020003;
+        public static final int textcolor=0x7f020004;
     }
     public static final class id {
-        public static final int action_settings=0x7f080002;
+        public static final int action_settings=0x7f080005;
+        public static final int btn1=0x7f080004;
+        public static final int edit1=0x7f080002;
+        public static final int edit2=0x7f080003;
         public static final int img=0x7f080000;
         public static final int img2=0x7f080001;
     }
